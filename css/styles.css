@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+body { 
+	background-color: #C58383; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	
+	
+}
+.header {width: 1440px; }
+.menu {float: left; width: 25%; }
+.title {float: left; width: 50%; font-size: 1.3em; color: #3B1D0C; }
+.research {float: left; width: 25%; }
+
+.main {width: 1440px; background-color: white; float: left; border-radius: 50px; border: 2px solid #000; margin: 0px; }
+.cake {float: left; margin-top: 50px; margin-left: 50px; margin-right: 25px; }
+
+.images {width: 550px; height: 130px; float: none; background-color: white; margin-top: 530px; margin-right: 50px; }
+.servings { margin-left: 50px; float: left; }
+.min { margin-left: 10px; float: left; }
+.hr { margin-left: 359px; float: none; }
+
+.information { width: 800px; height: 565px; float: right; background-color: #EFEBE1; margin-right: 50px; margin-top: 50px; }
+.ingredients { background-color: #C58383; 
+				width: 800px; height: 45px; color: #3B1D0C; }
+.ingredients { font-size: 2em; }
+
+.cake2 { margin-top: 40px; margin-right: 100px; margin-left: 90px; }
+.frosting { float: right; }
+
+.step { width: 1350px; height: 100px; background-color: #6B4632; float: left; margin-left: 50px; margin-bottom: 100px; color: #EEE2C4; font-size: 2em; }
+.text { margin-left: 340px; font-size: 1.2em; margin-top: 20px; }
+a.btn { font-size: 1.2em; text-decoration: none; color: #EEE2C4; border: 2px solid #EEE2C4; pading: 4px 15px; transition: background-color .5s; }
+a.btn:hover { background-color: rgba(0,0,0,.3); }
+
+.footer1 { width: 1440px; height: 250px; background-color: #C58383; float: left; }
+.icon { margin-left: 50px; margin-top: 20px; }
+.content { margin-left: 50px; margin-top: 20px; }
+.footericon { margin-left: 50px; margin-top: 20px; }
